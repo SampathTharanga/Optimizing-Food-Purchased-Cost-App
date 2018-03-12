@@ -1,0 +1,15 @@
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Release\android\assets\OptimizingFoodPurchasedCostApp.dll
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Release\android\assets\Java.Interop.dll
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Release\android\assets\Mono.Android.dll
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Release\android\assets\mscorlib.dll
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Release\android\assets\System.Core.dll
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Release\android\assets\System.dll
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Release\android\assets\System.Xml.dll
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Release\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Release\android\assets\Xamarin.Android.Support.Design.dll
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Release\android\assets\Xamarin.Android.Support.v4.dll
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Release\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Release\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Release\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Release\android\assets\System.Runtime.Serialization.dll
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Release\android\assets\System.ServiceModel.Internals.dll

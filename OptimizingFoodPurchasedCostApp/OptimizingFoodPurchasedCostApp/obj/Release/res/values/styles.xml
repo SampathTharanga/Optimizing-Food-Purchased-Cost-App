@@ -1,0 +1,1 @@
+<resources><style name="dialog_animation"><item name="android:windowEnterAnimation">@anim/slideup</item><item name="android:windowExitAnimation">@anim/slideright</item></style></resources>

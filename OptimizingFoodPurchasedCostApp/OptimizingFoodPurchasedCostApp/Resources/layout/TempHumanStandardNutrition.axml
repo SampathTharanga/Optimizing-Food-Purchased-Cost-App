@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <EditText
+        android:id="@+id/txtGender"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Gender"/>
+    <EditText
+        android:id="@+id/txtAgeLower"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Age Lower Limit"
+        android:layout_marginBottom="0.0dp" />
+    <EditText
+        android:id="@+id/txtAgeUpper"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Age Upper Limit"
+        android:layout_marginBottom="0.0dp" />
+    <EditText
+        android:id="@+id/txtMinTotalCalary"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Min Total Calary"
+        android:layout_marginBottom="0.0dp" />
+  <EditText
+    android:id="@+id/txtMaxTotalCalary"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:hint="Max Total Calary"
+    android:layout_marginBottom="0.0dp" />
+    <EditText
+        android:id="@+id/txtMinCarbohydrate"
+        android:layout_width="fill_parent"
+        android:hint="Min Carbohydrate"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:id="@+id/txtMaxCarbohydrate"
+        android:layout_width="fill_parent"
+        android:hint="Max Carbohydrate"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:id="@+id/txtMinProtein"
+        android:layout_width="fill_parent"
+        android:hint="Min Protein"
+        android:layout_height="wrap_content"/>
+    <EditText
+        android:id="@+id/txtMaxProtein"
+        android:layout_width="fill_parent"
+        android:hint="Max Protein"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/txtMinFat"
+        android:layout_width="fill_parent"
+        android:hint="Min Fat"
+        android:layout_height="wrap_content" />
+    <EditText
+        android:id="@+id/txtMaxFat"
+        android:layout_width="fill_parent"
+        android:hint="Max Fat"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:text="Add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnAdd" />
+</LinearLayout>

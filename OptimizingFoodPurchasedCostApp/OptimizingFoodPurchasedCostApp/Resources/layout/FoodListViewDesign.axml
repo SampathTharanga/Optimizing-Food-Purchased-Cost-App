@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    android:paddingBottom="4dp">
+    <TextView
+        android:id="@+id/nameTextView"
+        android:text="Name"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/CarbohydtateTextView"
+        android:layout_below="@id/nameTextView"
+        android:text="Crbohydrate"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="5dp"
+        android:textColor="#ff0000"/>
+    <TextView
+        android:id="@+id/ProteinTextView"
+        android:layout_below="@id/nameTextView"
+        android:text="Carboydrate"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textColor="#00ff00"
+        android:layout_marginLeft="40dp"/>
+    <TextView
+        android:id="@+id/fatTextView"
+        android:layout_below="@id/nameTextView"
+        android:text="Fat"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:textColor="#0000ff"
+        android:layout_marginLeft="90dp"/>
+    <EditText
+        android:id="@+id/edittextWeight"
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="260dp"
+        android:inputType="number"/>
+    <Button
+        android:text="ADD"
+        android:layout_width="57.0dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnAdd"
+        android:paddingLeft="5dp"
+        android:layout_alignParentRight="true" />
+</RelativeLayout>

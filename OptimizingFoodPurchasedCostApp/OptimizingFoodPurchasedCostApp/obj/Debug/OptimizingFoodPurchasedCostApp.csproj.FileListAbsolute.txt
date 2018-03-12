@@ -1,0 +1,308 @@
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\OptimizingFoodPurchasedCostApp.csprojResolveAssemblyReference.cache
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\OptimizingFoodPurchasedCostApp.dll
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\OptimizingFoodPurchasedCostApp.pdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\OptimizingFoodPurchasedCostApp.OptimizingFoodPurchasedCostApp.apk
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\OptimizingFoodPurchasedCostApp.OptimizingFoodPurchasedCostApp-Signed.apk
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\OptimizingFoodPurchasedCostApp.dll
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\OptimizingFoodPurchasedCostApp.pdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\bin\OptimizingFoodPurchasedCostApp.OptimizingFoodPurchasedCostApp.apk
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\dialogsingin.xml
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\dialogsingup.xml
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\homepage.xml
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\menucustomlayout.xml
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\foodspage.xml
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\pricepage.xml
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\memberviewpage.xml
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\main.xml
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\values\strings.xml
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon.png
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\buttonsigninstyle.xml
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\buttonsignupstyle.xml
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\edittextstyle.xml
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\progressbarstyle.xml
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\anim\slideright.xml
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\anim\slideup.xml
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\values\styles.xml
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\down_arrow.png
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_aboutus.png
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_client.png
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_contactus.png
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_event.png
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_help.png
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_home.png
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_product.png
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_service.png
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_solution.png
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\menu_icon.png
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\up_arrow.png
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\R.cs.flag
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\uploadflags.txt
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\memberregisterlayout.xml
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\OptimizingFoodPurchasedCostApp.dll.mdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Java.Interop.dll.mdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Mono.Android.dll.mdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\mscorlib.dll.mdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.ComponentModel.Composition.dll.mdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.Core.dll.mdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.dll.mdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.Net.Http.dll.mdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.Runtime.Serialization.dll.mdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.ServiceModel.Internals.dll.mdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.Xml.dll.mdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.Xml.Linq.dll.mdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\Java.Interop.dll.mdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\Mono.Android.dll.mdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\mscorlib.dll.mdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\OptimizingFoodPurchasedCostApp.dll.mdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.Core.dll.mdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.dll.mdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.Net.Http.dll.mdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.Xml.dll.mdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+E:\University\3 Year\Final Project App\App\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\OptimizingFoodPurchasedCostApp.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\OptimizingFoodPurchasedCostApp.dll
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\OptimizingFoodPurchasedCostApp.pdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\OptimizingFoodPurchasedCostApp.OptimizingFoodPurchasedCostApp.apk
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\OptimizingFoodPurchasedCostApp.OptimizingFoodPurchasedCostApp-Signed.apk
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\OptimizingFoodPurchasedCostApp.csprojResolveAssemblyReference.cache
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\OptimizingFoodPurchasedCostApp.dll
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\OptimizingFoodPurchasedCostApp.pdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\bin\OptimizingFoodPurchasedCostApp.OptimizingFoodPurchasedCostApp.apk
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\dialogsingin.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\dialogsingup.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\homepage.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\menucustomlayout.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\tempfoodsregpage.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\pricepage.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\memberviewpage.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\memberregisterlayout.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\memberstablayoutmain.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\temphumanstandardnutrition.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\tempdiseasesadd.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\selectfoodslayout.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\planwithmodellayout.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\helplayout.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\main.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\values\strings.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon.png
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\buttonsigninstyle.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\buttonsignupstyle.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\edittextstyle.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\progressbarstyle.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\anim\slideright.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\anim\slideup.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\values\styles.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\down_arrow.png
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_aboutus.png
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_client.png
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_contactus.png
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_event.png
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_help.png
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_home.png
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_product.png
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_service.png
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_solution.png
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\menu_icon.png
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\up_arrow.png
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\values\colors.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\values\tabstyles.xml
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\ic_done.png
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\R.cs.flag
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\uploadflags.txt
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Java.Interop.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Mono.Android.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\mscorlib.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.ComponentModel.Composition.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.Core.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.Net.Http.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.Runtime.Serialization.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.ServiceModel.Internals.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.Xml.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.Xml.Linq.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\Java.Interop.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\Mono.Android.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\mscorlib.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.Core.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.Net.Http.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.Xml.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\OptimizingFoodPurchasedCostApp.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder (5)\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\OptimizingFoodPurchasedCostApp.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\OptimizingFoodPurchasedCostApp.dll
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\OptimizingFoodPurchasedCostApp.pdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\OptimizingFoodPurchasedCostApp.OptimizingFoodPurchasedCostApp.apk
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\OptimizingFoodPurchasedCostApp.OptimizingFoodPurchasedCostApp-Signed.apk
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\OptimizingFoodPurchasedCostApp.dll
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\OptimizingFoodPurchasedCostApp.pdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\bin\OptimizingFoodPurchasedCostApp.OptimizingFoodPurchasedCostApp.apk
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\dialogsingin.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\dialogsingup.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\homepage.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\menucustomlayout.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\tempfoodsregpage.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\pricepage.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\memberviewpage.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\memberregisterlayout.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\memberstablayoutmain.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\temphumanstandardnutrition.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\tempdiseasesadd.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\selectfoodslayout.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\planwithmodellayout.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\helplayout.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\foodlistviewdesign.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\menucustomelayouthelp.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\main.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\values\strings.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon.png
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\buttonsigninstyle.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\buttonsignupstyle.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\edittextstyle.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\progressbarstyle.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\anim\slideright.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\anim\slideup.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\values\styles.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\down_arrow.png
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_aboutus.png
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_client.png
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_contactus.png
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_event.png
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_help.png
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_home.png
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_product.png
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_service.png
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_solution.png
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\menu_icon.png
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\up_arrow.png
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\values\colors.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\values\tabstyles.xml
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\ic_done.png
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\R.cs.flag
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\uploadflags.txt
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\OptimizingFoodPurchasedCostApp.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Java.Interop.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Mono.Android.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\mscorlib.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.ComponentModel.Composition.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.Core.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.Net.Http.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.Runtime.Serialization.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.ServiceModel.Internals.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.Xml.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.Xml.Linq.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\Java.Interop.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\Mono.Android.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\mscorlib.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\OptimizingFoodPurchasedCostApp.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.Core.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.Net.Http.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.Xml.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\OptimizingFoodPurchasedCostApp.csprojResolveAssemblyReference.cache
+E:\University\3 Year\Final Project App\App\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\OptimizingFoodPurchasedCostApp.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\OptimizingFoodPurchasedCostApp.dll
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\OptimizingFoodPurchasedCostApp.pdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\OptimizingFoodPurchasedCostApp.OptimizingFoodPurchasedCostApp.apk
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\OptimizingFoodPurchasedCostApp.OptimizingFoodPurchasedCostApp-Signed.apk
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\OptimizingFoodPurchasedCostApp.csprojResolveAssemblyReference.cache
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\OptimizingFoodPurchasedCostApp.dll
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\OptimizingFoodPurchasedCostApp.pdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\bin\OptimizingFoodPurchasedCostApp.OptimizingFoodPurchasedCostApp.apk
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\dialogsingin.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\dialogsingup.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\homepage.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\menucustomlayout.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\tempfoodsregpage.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\pricepage.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\memberviewpage.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\memberregisterlayout.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\memberstablayoutmain.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\temphumanstandardnutrition.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\tempdiseasesadd.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\selectfoodslayout.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\planwithmodellayout.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\helplayout.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\foodlistviewdesign.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\menucustomelayouthelp.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\layout\main.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\values\strings.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon.png
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\buttonsigninstyle.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\buttonsignupstyle.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\edittextstyle.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\progressbarstyle.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\anim\slideright.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\anim\slideup.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\values\styles.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\down_arrow.png
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_aboutus.png
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_client.png
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_contactus.png
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_event.png
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_help.png
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_home.png
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_product.png
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_service.png
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\icon_solution.png
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\menu_icon.png
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\up_arrow.png
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\values\colors.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\values\tabstyles.xml
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\res\drawable\ic_done.png
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\R.cs.flag
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\uploadflags.txt
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\OptimizingFoodPurchasedCostApp.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Java.Interop.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\Mono.Android.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\mscorlib.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.ComponentModel.Composition.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.Core.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.Net.Http.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.Runtime.Serialization.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.ServiceModel.Internals.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.Xml.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\bin\Debug\System.Xml.Linq.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\Java.Interop.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\Mono.Android.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\mscorlib.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\OptimizingFoodPurchasedCostApp.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.Core.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.Net.Http.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.Xml.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+E:\University\3 Year\Final Project App\App\new1\New folder\OptimizingFoodPurchasedCostApp\OptimizingFoodPurchasedCostApp\obj\Debug\OptimizingFoodPurchasedCostApp.dll.mdb

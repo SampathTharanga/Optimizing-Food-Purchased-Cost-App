@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <EditText
+        android:id="@+id/txtDisName"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Diseases Name"
+        android:textColor="#000" />
+    <EditText
+        android:id="@+id/txtMinDisCarbohydrate"
+        android:layout_width="fill_parent"
+        android:hint="Min Carbohydrate"
+        android:layout_height="wrap_content"
+        android:textColor="#000" />
+    <EditText
+        android:id="@+id/txtMaxDisCarbohydrate"
+        android:layout_width="fill_parent"
+        android:hint="Max Carbohydrate"
+        android:layout_height="wrap_content"
+        android:textColor="#000" />
+    <EditText
+        android:id="@+id/txtMinDisProtein"
+        android:layout_width="fill_parent"
+        android:hint="Min Protein"
+        android:layout_height="wrap_content"
+        android:textColor="#000" />
+    <EditText
+        android:id="@+id/txtMaxDisProtein"
+        android:layout_width="fill_parent"
+        android:hint="Max Protein"
+        android:layout_height="wrap_content"
+        android:textColor="#000" />
+    <EditText
+        android:id="@+id/txtMinDisFat"
+        android:layout_width="fill_parent"
+        android:hint="Min Fat"
+        android:layout_height="wrap_content"
+        android:textColor="#000" />
+    <EditText
+        android:id="@+id/txtMaxDisFat"
+        android:layout_width="fill_parent"
+        android:hint="Max Fat"
+        android:layout_height="wrap_content"
+        android:textColor="#000" />
+    <Button
+        android:text="Add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnDisAdd" />
+</LinearLayout>
